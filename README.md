@@ -1,3 +1,3 @@
 # tax_calculator
 
-A new Flutter project.
+Developed a tax management web app using Flutter with features for pension, TDR, and taxable income calculations, enabling users to manage and track finances effectively.
